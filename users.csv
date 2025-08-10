@@ -1,0 +1,5 @@
+user_id,username,email,password_hash,full_name,role,created_at
+1,admin_user,admin@travelapp.com,hashed_admin_password,"Admin User",admin,"2025-08-08 17:14:45"
+2,john_doe,john.doe@email.com,hashed_user_password1,"John Doe",user,"2025-08-08 17:14:45"
+3,jane_smith,jane.smith@email.com,hashed_user_password2,"Jane Smith",user,"2025-08-08 17:14:45"
+4,travel_bug,traveler@email.com,hashed_user_password3,"Alex Ray",user,"2025-08-08 17:14:45"

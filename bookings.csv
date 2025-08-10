@@ -1,0 +1,4 @@
+booking_id,user_id,destination_id,check_in_date,check_out_date,total_price,status,created_at
+1,2,1,2025-09-10,2025-09-15,1250.00,confirmed,"2025-08-08 17:14:45"
+2,3,3,2025-10-20,2025-10-25,1603.75,confirmed,"2025-08-08 17:14:45"
+3,2,5,2025-11-01,2025-11-08,5250.00,pending,"2025-08-08 17:14:45"

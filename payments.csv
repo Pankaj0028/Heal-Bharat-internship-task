@@ -1,0 +1,3 @@
+payment_id,booking_id,amount,payment_method,status,payment_date
+1,1,1250.00,"Credit Card",completed,"2025-08-08 17:14:45"
+2,2,1603.75,PayPal,completed,"2025-08-08 17:14:45"

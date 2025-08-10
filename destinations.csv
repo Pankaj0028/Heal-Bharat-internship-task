@@ -1,0 +1,6 @@
+destination_id,name,location,description,price_per_night,image_url,created_at
+1,"Eiffel Tower Suite","Paris, France","A stunning view of the iconic Eiffel Tower from your window. Experience the romance of Paris.",250.00,https://example.com/images/paris.jpg,"2025-08-08 17:14:45"
+2,"Kyoto Serenity Garden","Kyoto, Japan","Find peace and tranquility in a traditional Japanese ryokan surrounded by beautiful gardens.",180.50,https://example.com/images/kyoto.jpg,"2025-08-08 17:14:45"
+3,"Santorini Caldera View","Santorini, Greece","Wake up to breathtaking views of the Aegean Sea and the volcanic caldera.",320.75,https://example.com/images/santorini.jpg,"2025-08-08 17:14:45"
+4,"NYC Times Square Loft","New York, USA","A modern loft in the heart of the city that never sleeps. Steps away from Broadway.",450.00,https://example.com/images/nyc.jpg,"2025-08-08 17:14:45"
+5,"Bora Bora Overwater Bungalow","Bora Bora, French Polynesia","Escape to paradise in a luxurious overwater bungalow with direct lagoon access.",750.00,https://example.com/images/borabora.jpg,"2025-08-08 17:14:45"
